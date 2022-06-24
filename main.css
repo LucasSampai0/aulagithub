@@ -1,0 +1,180 @@
+.cabecalho{
+    background-color: #c5deff ;
+    height: 300px;
+    width: auto;
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.cabecalho .logo{
+    width: 150px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.cabecalho a{
+    margin-bottom: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #2c1e42 ;
+    font-family: Tahoma;
+    text-align: center;
+    font-weight: bold;
+}
+
+.banner{
+    margin: 35px auto;
+    text-align: center;
+}
+
+.banner img{
+    height: 425px;
+}
+
+.sobre{
+    font-family: Tahoma;
+    width: 1000px;
+    text-align: center;
+    margin: 0px auto;
+}
+
+
+.sobre h1{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.sobre h2{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-size: 25px;
+    color: #1d80c1;
+}
+
+.sobre img{
+    height: 400px;
+    margin-bottom: 38px;
+}
+
+.sobre p{
+    text-align: justify;
+    font-size: 18px;
+    font-weight: normal;
+    margin-bottom: 35px;
+}
+
+.sobre span{
+    color: #1d80c1;
+}
+
+.servicos{
+    background-color: #1d80c1;
+    height: 500px;
+    color: #ffffff;
+    font-family: Tahoma;
+    padding-top: 20px;
+    margin: 0px auto;
+    text-align: center;
+    line-height: 30px;
+
+}
+
+.servicos h1{
+    font-size: 40px;
+
+}
+
+.servicos p{
+    width: 700px;
+    margin: 0px auto;
+    font-size: 25px;
+    padding: 30px 0px;
+
+}
+
+.servicos div{
+    text-align: left;
+    margin: 0px auto;
+    width: 200px;
+    font-size: 20px;
+}
+
+.servicos span{
+    color: #fdfa2a;
+    font-weight: bold;
+}
+
+.corretores{
+    padding-top: 40px;
+    text-align: center;
+    font-family: Tahoma;
+    width: 1100px;
+    margin: 0px auto;
+}
+
+.corretores h1{
+    font-size: 40px;
+    color: #1d80c1;
+
+}
+
+.corretores img{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    height: 500px;
+}
+
+.corretores p{
+    font-size: 20px;
+    text-align: justify;
+    margin-bottom: 50px;
+}
+
+.contato{
+    background-color: #1d80c1;
+    padding-top: 40px;
+    text-align: center;
+    color: #ffffff;
+    font-family: Tahoma;
+}
+
+.contato iframe{
+    margin-top: 30px;
+}
+
+.contato p{
+    background-color: #222222;
+    width: 900px;
+    margin: 30px auto;
+    line-height: 45px;
+    border-radius: 5px;
+}
+
+.contato span{
+    color: #fdfa2a;
+    font-weight: bold;
+}
+
+
+.contato div{
+    text-align: center;
+    margin: 15px auto;
+    font-size: 20px;
+    width: 300px;
+    line-height: 50px;
+}
+
+.contato a{
+    color: #1d80c1;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    padding: 3px 5px;
+    margin-bottom: 10px;
+
+    
+}
+
